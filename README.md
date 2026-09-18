@@ -36,7 +36,7 @@ The project includes interfaces for:
 
 ## 📄 Documentation
 
-[View Project Report](docs/TIMSCDR-Portal-Project-Report.pdf)
+[📥 View Project Report](./docs/TIMSCDR-Portal-Project-Report.pdf)
 
 ## ⚙️ Installation & Setup
 
