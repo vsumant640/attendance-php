@@ -1,0 +1,14 @@
+Sumant
+Full Stack Developer (Student Project)
+
+Mobile: 9554785804
+Email: vsumant640@gmail.com
+
+Profile:
+This project is a professional Student Portal system built using HTML, CSS, JavaScript, PHP, and MySQL with advanced features like QR-based attendance and secure authentication.
+
+Skills:
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: PHP
+- Database: MySQL
+- Features: QR Attendance, Authentication, Dashboard UI, Reporting

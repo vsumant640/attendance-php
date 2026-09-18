@@ -1,0 +1,19 @@
+**Database Name: attendancemsystem**
+
+**Developed by Sumant**
+
+**Recommended PHP Version 5.6 and Newer**
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Teacher Login Details**
+
+Email   : sumant@mail.com
+Password: pass123
+
+**Default password for teacher's account: pass123**
