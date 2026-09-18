@@ -36,7 +36,7 @@ The project includes interfaces for:
 
 ## 📄 Documentation
 
-[📥 View Project Report](./In%20Sem%20Capstone%20Project%20Report.pdf)
+[📥 View Project Report](./Project-Report.pdf)
 
 ## ⚙️ Installation & Setup
 
