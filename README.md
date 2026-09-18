@@ -26,6 +26,18 @@ The system helps manage student attendance and provides an organized platform fo
 - Database Management
 - Responsive Web Interface
 
+## 📸 Project Screenshots
+
+The project includes interfaces for:
+- Student Dashboard
+- Admin Dashboard
+- Teacher Module
+- QR Attendance Scanner
+
+## 📄 Documentation
+
+[View Project Report](docs/TIMSCDR-Portal-Project-Report.pdf)
+
 ## ⚙️ Installation & Setup
 
 1. Install XAMPP.
@@ -49,3 +61,5 @@ attendance-php/
 ├── includes/
 ├── *.php
 └── README.md
+
+
