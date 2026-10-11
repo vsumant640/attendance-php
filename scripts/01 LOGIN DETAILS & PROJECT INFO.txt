@@ -2,7 +2,7 @@
 
 **Database Name: attendancemsystem**
 
-**Developed by Sodiq Ahmed**
+**Developed by Sumant**
 
 **Recommended PHP Version 5.6 and Newer**
 
